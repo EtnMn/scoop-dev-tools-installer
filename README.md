@@ -39,7 +39,7 @@ In _Windows Terminal_ settings (_Ctrl+,_), define the font in the profile. For e
 
 ## Uninstall
 
-To uninstall all the application run
+To uninstall all the applications run:
 
 ```
 scoop uninstall scoop
