@@ -41,7 +41,7 @@ In _Windows Terminal_ settings (_Ctrl+,_), define the font in the profile. For e
 ```
 ## Custom
 
-To configure starshi, use `starship config`. For example, to set up the nodejs module
+To configure starship, use `starship config`. For example, to set up the nodejs module
 
 ```
 [nodejs]
