@@ -13,7 +13,7 @@
     scoop install FiraCode
     scoop install starship
     scoop install firefox
-    scoop install dotnet-sdk
+    scoop install azure-cli
     scoop install vscode
     scoop install azuredatastudio
     scoop install nvm

@@ -31,10 +31,21 @@ In _Windows Terminal_ settings (_Ctrl+,_), define the font in the profile. For e
 "profiles": {
     "defaults": {
         // Put settings here that you want to apply to all profiles.
-        "fontFace": "Fira Code"
+        "fontFace": "Fira Code",
+        "colorScheme" : "Dracula",
+        "startingDirectory": "C:\\workspace",
+        "backgroundImage": "1.jpg"
     },
     // ...
 }
+```
+## Custom
+
+To configure starshi, use `starship config`. For example, to set up the nodejs module
+
+```
+[nodejs]
+format = "via [◆ $version](bold green) "
 ```
 
 ## Uninstall
